@@ -1,4 +1,4 @@
 a = 10
-b = 20
+b = 30
 total = a+b
-print(f'Total:{total}')
+print(f'Total is :{total}')
